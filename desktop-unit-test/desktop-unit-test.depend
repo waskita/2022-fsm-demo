@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1664362375 source:c:\work\2022-fsm-demo\fsm\fsm.c
+	"fsm.h"
+
+1664362392 c:\work\2022-fsm-demo\fsm\fsm.h
+
+1664362353 source:c:\work\2022-fsm-demo\desktop-unit-test\main.c
+	<stdio.h>
+	<stdlib.h>
+	"../fsm/fsm.h"
+
